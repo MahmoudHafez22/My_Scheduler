@@ -1,0 +1,13 @@
+../Src/OSMCAL_program.c:38:30:Stack_voidSchedulerStackInit	1
+../Src/OSMCAL_program.c:47:6:STK_voidInit	1
+../Src/OSMCAL_program.c:67:30:PendSV_Handler	1
+../Src/OSMCAL_program.c:100:6:UnblockTasks	4
+../Src/OSMCAL_program.c:116:6:SysTick_Handler	1
+../Src/OSMCAL_program.c:128:6:InitTaskStack	3
+../Src/OSMCAL_program.c:173:10:GetCurrentPSPValue	1
+../Src/OSMCAL_program.c:178:6:SavePSPValue	1
+../Src/OSMCAL_program.c:183:6:UpdateNextTask	5
+../Src/OSMCAL_program.c:202:30:ChangeToPSP	1
+../Src/OSMCAL_program.c:221:6:EnableSystemFaults	1
+../Src/OSMCAL_program.c:228:6:TaskDelay	2
+../Src/OSMCAL_program.c:247:6:IdleTaskHandler	1
